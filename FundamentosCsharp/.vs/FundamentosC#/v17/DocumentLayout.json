@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7858AE-026B-4E85-BB90-A910E7E6B278}|FundamentosC#\\FundamentosC.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentosc#\\fundamentosc#\\modulo8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7858AE-026B-4E85-BB90-A910E7E6B278}|FundamentosC#\\FundamentosC.csproj|solutionrelative:fundamentosc#\\modulo8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7858AE-026B-4E85-BB90-A910E7E6B278}|FundamentosC#\\FundamentosC.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentosc#\\fundamentosc#\\modulo7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7858AE-026B-4E85-BB90-A910E7E6B278}|FundamentosC#\\FundamentosC.csproj|solutionrelative:fundamentosc#\\modulo7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7858AE-026B-4E85-BB90-A910E7E6B278}|FundamentosC#\\FundamentosC.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentosc#\\fundamentosc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7858AE-026B-4E85-BB90-A910E7E6B278}|FundamentosC#\\FundamentosC.csproj|solutionrelative:fundamentosc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modulo8.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosC#\\FundamentosC#\\Modulo8.cs",
+              "RelativeDocumentMoniker": "FundamentosC#\\Modulo8.cs",
+              "ToolTip": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosC#\\FundamentosC#\\Modulo8.cs",
+              "RelativeToolTip": "FundamentosC#\\Modulo8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:21:01.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modulo7.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosC#\\FundamentosC#\\Modulo7.cs",
+              "RelativeDocumentMoniker": "FundamentosC#\\Modulo7.cs",
+              "ToolTip": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosC#\\FundamentosC#\\Modulo7.cs",
+              "RelativeToolTip": "FundamentosC#\\Modulo7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:20:48.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosC#\\FundamentosC#\\Program.cs",
+              "RelativeDocumentMoniker": "FundamentosC#\\Program.cs",
+              "ToolTip": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosC#\\FundamentosC#\\Program.cs",
+              "RelativeToolTip": "FundamentosC#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:20:25.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

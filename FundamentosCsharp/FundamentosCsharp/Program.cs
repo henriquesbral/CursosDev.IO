@@ -11,7 +11,31 @@ namespace Application
             //AulaPropSomenteLeitura();
             //AulaHeranca();
             //AulaClasseSelada();
-            AulaClasseAbstrada();
+            //AulaClasseAbstrada();
+            AulaRecord();
+        }
+
+        private static void AulaRecord()
+        {
+            //var curso1 = new Produtos.Curso { Id = 1, Descricao = "Curso" };
+            //var curso2 = new Produtos.Curso { Id = 1, Descricao = "Curso" }; usando a classe record
+
+            var curso1 = new Produtos.Curso(1, "Curso");
+            var curso2 = curso1 with { Descricao = "Teste Novo" };
+
+            //var curso1 = new Produtos.CursoTeste { Id = 1, Descricao = "Curso"};
+            //var curso2 = curso1;
+            //curso2.Descricao = "TESTE TESTE";
+
+            //var curso2 = new Produtos.CursoTeste();//não ocorre o problema pois estou criando uma instancia nova e não atribuindo a primeira instancia a variavel
+
+            //curso2.Id = curso1.Id;
+            //curso2.Descricao = "Nova Descrição";
+
+            Console.WriteLine(curso1.Descricao);
+            Console.WriteLine(curso2.Descricao);
+
+            //Console.WriteLine($"Os cursos são iguais ? {curso1.Equals(curso2)}"); //Utilizando o equals para comparacao
         }
 
         private static void AulaClasseAbstrada()
@@ -21,6 +45,7 @@ namespace Application
             animal.ImprimirDados();
 
         }
+
         private static void AulaClasseSelada()
         {
             //var configuracao = new Produtos.Configuracao();

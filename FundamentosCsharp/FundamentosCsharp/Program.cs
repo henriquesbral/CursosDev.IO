@@ -8,7 +8,12 @@ namespace Application
 
         static void Main(string[] args)
         {
-
+            Conversores();
         }        
+        private static void Conversores()
+        {
+            var convert = new Conversores.Conversor();
+            convert.ConvertAndParse();
+        }
     }
 }

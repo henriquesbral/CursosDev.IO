@@ -12,7 +12,17 @@ namespace Application
             //AulaHeranca();
             //AulaClasseSelada();
             //AulaClasseAbstrada();
-            AulaRecord();
+            //AulaRecord();
+            AulaInterface();
+        }
+
+        private static void AulaInterface()
+        {
+            var notificandoCliente = new Produtos.NotificacaoCliente();
+            notificandoCliente.Notificar();
+
+            Produtos.INotificacao notificacao = new Produtos.NotificacaoFuncionario();
+            notificacao.Notificar();
         }
 
         private static void AulaRecord()

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E7858AE-026B-4E85-BB90-A910E7E6B278}|FundamentosCsharp\\FundamentosC.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentoscsharp\\fundamentoscsharp\\modulo8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7858AE-026B-4E85-BB90-A910E7E6B278}|FundamentosCsharp\\FundamentosC.csproj|solutionrelative:fundamentoscsharp\\modulo8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E7858AE-026B-4E85-BB90-A910E7E6B278}|FundamentosCsharp\\FundamentosC.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentoscsharp\\fundamentoscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E7858AE-026B-4E85-BB90-A910E7E6B278}|FundamentosCsharp\\FundamentosC.csproj|solutionrelative:fundamentoscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,12 +39,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Modulo8.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\FundamentosCsharp\\Modulo8.cs",
+              "RelativeDocumentMoniker": "FundamentosCsharp\\Modulo8.cs",
+              "ToolTip": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\FundamentosCsharp\\Modulo8.cs",
+              "RelativeToolTip": "FundamentosCsharp\\Modulo8.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwKAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:16:25.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\FundamentosCsharp\\Program.cs",
               "RelativeDocumentMoniker": "FundamentosCsharp\\Program.cs",
               "ToolTip": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\FundamentosCsharp\\Program.cs",
               "RelativeToolTip": "FundamentosCsharp\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T21:59:53.864Z",
               "EditorCaption": ""

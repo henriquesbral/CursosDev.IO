@@ -136,4 +136,39 @@ namespace Produtos
             return !(a == b);
         }
     }*/
+
+    public interface INotificacao
+    {
+        string Descricao { get; set; }
+
+        void Notificar();
+    }
+
+    public class NotificacaoCliente : INotificacao
+    {
+        public string Descricao { get ; set ; }
+
+        public void Notificar()
+        {
+            Console.WriteLine("Notificando cliente");
+        }
+        public void NotificandoOutros()
+        {
+            Console.WriteLine("Notificando funcionario");
+        }
+    }
+    public class NotificacaoFuncionario : INotificacao
+    {
+        public string Descricao { get ; set ; }
+
+        public void Notificar()
+        {
+            Console.WriteLine("Notificando funcionario");
+        }
+        public void NotificandoOutros()
+        {
+            Console.WriteLine("Notificando funcionario");
+        }
+    }
+
 }

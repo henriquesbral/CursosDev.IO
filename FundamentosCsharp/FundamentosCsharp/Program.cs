@@ -8,50 +8,8 @@ namespace Application
 
         static void Main(string[] args)
         {
-            //TrabalhandoComDatas();
-            //TrabalhandoComDiffDeDatas();
-            //TrabalhandAddDeDatas();
-            //TrabalhandAddHorasMinSeg();
-            //TrabalhandDiaSemana();
-            TrabalhandDateOnly();
-            TrabalhandTimeOnly();
         }
         
-        private static void TrabalhandoComDatas()
-        {
-            var dateT = new ModuloDatas.TrabalhandoComDatas();
-            dateT.AulaDateTime();
-        }
-        private static void TrabalhandoComDiffDeDatas()
-        {
-            var dateT = new ModuloDatas.TrabalhandoComDatas();
-            dateT.AulaSubtraindoDatas();
-        }
-        private static void TrabalhandAddDeDatas()
-        {
-            var dateT = new ModuloDatas.TrabalhandoComDatas();
-            dateT.AulaAddDiasMesAno();
-        }
-        private static void TrabalhandAddHorasMinSeg()
-        {
-            var dateT = new ModuloDatas.TrabalhandoComDatas();
-            dateT.AulaAddHoraMinSeg();
-        }
-        private static void TrabalhandDiaSemana()
-        {
-            var dateT = new ModuloDatas.TrabalhandoComDatas();
-            dateT.AulaRecDiaSemana();
-        }
-        private static void TrabalhandDateOnly()
-        {
-            var dateT = new ModuloDatas.TrabalhandoComDatas();
-            dateT.AulaDateOnly();
-        }
-        private static void TrabalhandTimeOnly()
-        {
-            var dateT = new ModuloDatas.TrabalhandoComDatas();
-            dateT.AulaTimeOnly();
-        }
 
 
     }

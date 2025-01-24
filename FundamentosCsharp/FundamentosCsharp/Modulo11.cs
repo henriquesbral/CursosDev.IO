@@ -25,6 +25,17 @@ namespace ModuloDatas
             Console.WriteLine(dateOffste1.LocalDateTime);
             Console.WriteLine(dateOffste1.UtcDateTime);
         }
+
+        public void AulaSubtraindoDatas()
+        {
+            var date1 = DateTime.Now;
+            var date2 = DateTime.Parse("2024-01-24");
+
+            var diff = date1 - date2; // ou date1.Subtract(date2);
+
+            Console.WriteLine("A diferença de dias é: " + diff.TotalDays);
+            Console.WriteLine("A diferença de horas é: " + diff.TotalHours);
+        }
     }
 
 }

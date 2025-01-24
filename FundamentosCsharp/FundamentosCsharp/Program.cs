@@ -8,9 +8,13 @@ namespace Application
 
         static void Main(string[] args)
         {
-            
+            TrabalhandoComDatas();
         }
         
-        
+        private static void TrabalhandoComDatas()
+        {
+            var dateT = new ModuloDatas.TrabalhandoComDatas();
+            dateT.AulaDateTime();
+        }
     }
 }

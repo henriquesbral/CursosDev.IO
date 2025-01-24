@@ -59,6 +59,20 @@ namespace ModuloDatas
 
             Console.WriteLine("" + date1.DayOfWeek); //Dia Da Semana
         }
+        public void AulaDateOnly()
+        {
+            //var date1 = new DateOnly(2022,12,02);
+            var somenteData = DateOnly.Parse("2022-02-01");
+
+            Console.WriteLine(somenteData); //Dia Da Semana
+        }
+        public void AulaTimeOnly()
+        {
+            //var date1 = new TimeOnly(00,12,02);
+            var somenteHora= TimeOnly.Parse("00:59:39");
+
+            Console.WriteLine(somenteHora); //Dia Da Semana
+        }
     }
 
 }

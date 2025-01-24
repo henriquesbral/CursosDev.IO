@@ -36,6 +36,15 @@ namespace ModuloDatas
             Console.WriteLine("A diferença de dias é: " + diff.TotalDays);
             Console.WriteLine("A diferença de horas é: " + diff.TotalHours);
         }
+
+        public void AulaAddDiasMesAno()
+        {
+            var date1 = DateTime.Now;
+
+            Console.WriteLine("Adicionando dia na dataAtual - " + date1.AddDays(1));
+            Console.WriteLine("Adicionando mês na dataAtual - " + date1.AddMonths(2));
+            Console.WriteLine("Adicionando ano na dataAtual - " + date1.AddYears(1));
+        }
     }
 
 }

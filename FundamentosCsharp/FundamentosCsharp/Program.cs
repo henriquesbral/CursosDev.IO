@@ -9,7 +9,8 @@ namespace Application
         static void Main(string[] args)
         {
             //TrabalhandoComDatas();
-            TrabalhandoComDiffDeDatas();
+            //TrabalhandoComDiffDeDatas();
+            TrabalhandAddDeDatas();
         }
         
         private static void TrabalhandoComDatas()
@@ -22,5 +23,12 @@ namespace Application
             var dateT = new ModuloDatas.TrabalhandoComDatas();
             dateT.AulaSubtraindoDatas();
         }
+        private static void TrabalhandAddDeDatas()
+        {
+            var dateT = new ModuloDatas.TrabalhandoComDatas();
+            dateT.AulaAddDiasMesAno();
+        }
+
+
     }
 }

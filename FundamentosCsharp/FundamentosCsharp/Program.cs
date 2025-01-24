@@ -10,7 +10,8 @@ namespace Application
         {
             //TrabalhandoComDatas();
             //TrabalhandoComDiffDeDatas();
-            TrabalhandAddDeDatas();
+            //TrabalhandAddDeDatas();
+            TrabalhandAddHorasMinSeg();
         }
         
         private static void TrabalhandoComDatas()
@@ -27,6 +28,11 @@ namespace Application
         {
             var dateT = new ModuloDatas.TrabalhandoComDatas();
             dateT.AulaAddDiasMesAno();
+        }
+        private static void TrabalhandAddHorasMinSeg()
+        {
+            var dateT = new ModuloDatas.TrabalhandoComDatas();
+            dateT.AulaAddHoraMinSeg();
         }
 
 

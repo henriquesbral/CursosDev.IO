@@ -45,6 +45,14 @@ namespace ModuloDatas
             Console.WriteLine("Adicionando mês na dataAtual - " + date1.AddMonths(2));
             Console.WriteLine("Adicionando ano na dataAtual - " + date1.AddYears(1));
         }
+        public void AulaAddHoraMinSeg()
+        {
+            var date1 = DateTime.Now;
+
+            Console.WriteLine("Adicionando hora na dataAtual - " + date1.AddHours(1).ToString("HH:mm:ss"));
+            Console.WriteLine("Adicionando minuto na dataAtual - " + date1.AddMinutes(50).ToString("HH:mm:ss"));
+            Console.WriteLine("Adicionando segundos na dataAtual - " + date1.AddSeconds(10).ToString("HH:mm:ss"));
+        }
     }
 
 }

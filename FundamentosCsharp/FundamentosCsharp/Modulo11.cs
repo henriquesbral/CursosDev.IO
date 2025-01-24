@@ -61,17 +61,17 @@ namespace ModuloDatas
         }
         public void AulaDateOnly()
         {
-            //var date1 = new DateOnly(2022,12,02);
+            //var date1 = new DateOnly(2022,12,02); //Construtor
             var somenteData = DateOnly.Parse("2022-02-01");
 
-            Console.WriteLine(somenteData); //Dia Da Semana
+            Console.WriteLine(somenteData); 
         }
         public void AulaTimeOnly()
         {
-            //var date1 = new TimeOnly(00,12,02);
+            //var date1 = new TimeOnly(00,12,02); //Construtor
             var somenteHora= TimeOnly.Parse("00:59:39");
 
-            Console.WriteLine(somenteHora); //Dia Da Semana
+            Console.WriteLine(somenteHora); 
         }
     }
 

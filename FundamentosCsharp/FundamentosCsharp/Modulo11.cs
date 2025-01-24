@@ -53,6 +53,12 @@ namespace ModuloDatas
             Console.WriteLine("Adicionando minuto na dataAtual - " + date1.AddMinutes(50).ToString("HH:mm:ss"));
             Console.WriteLine("Adicionando segundos na dataAtual - " + date1.AddSeconds(10).ToString("HH:mm:ss"));
         }
+        public void AulaRecDiaSemana()
+        {
+            var date1 = DateTime.Now;
+
+            Console.WriteLine("" + date1.DayOfWeek); //Dia Da Semana
+        }
     }
 
 }

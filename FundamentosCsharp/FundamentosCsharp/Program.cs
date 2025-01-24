@@ -11,7 +11,8 @@ namespace Application
             //TrabalhandoComDatas();
             //TrabalhandoComDiffDeDatas();
             //TrabalhandAddDeDatas();
-            TrabalhandAddHorasMinSeg();
+            //TrabalhandAddHorasMinSeg();
+            TrabalhandDiaSemana();
         }
         
         private static void TrabalhandoComDatas()
@@ -33,6 +34,11 @@ namespace Application
         {
             var dateT = new ModuloDatas.TrabalhandoComDatas();
             dateT.AulaAddHoraMinSeg();
+        }
+        private static void TrabalhandDiaSemana()
+        {
+            var dateT = new ModuloDatas.TrabalhandoComDatas();
+            dateT.AulaRecDiaSemana();
         }
 
 

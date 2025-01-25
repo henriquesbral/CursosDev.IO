@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FundamentosCsharp"
+    "\\FundamentosCsharp",
+    "\\FundamentosCsharp\\FundamentosCsharp"
   ],
-  "SelectedNode": "\\FundamentosCsharp\\FundamentosCsharp.sln",
+  "SelectedNode": "\\FundamentosCsharp\\FundamentosCsharp\\Modulo11.cs",
   "PreviewInSolutionExplorer": false
 }

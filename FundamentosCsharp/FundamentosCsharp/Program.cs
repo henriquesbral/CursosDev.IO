@@ -14,7 +14,7 @@ namespace Application
         private static void AulaArquivos()
         {
             var arquivo = new ModuloArquivos.Arquivos();
-            arquivo.AulaTrabalhandoComArquivos();
+            arquivo.AulaCriandoArquivos();
         }
     }
 }

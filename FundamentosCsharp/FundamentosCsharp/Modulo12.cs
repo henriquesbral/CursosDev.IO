@@ -25,16 +25,22 @@ namespace ModuloExceptions
             {
                 try
                 {
-                    Console.WriteLine("Informe um número: ");
+                    Console.WriteLine("Informe um número: "); 
                     var numero = Console.ReadLine();
 
                     var resultado = 500 / int.Parse(numero);
                     Console.WriteLine($"O resultado é: {resultado}");
                     
                 }
+                catch (DivideByZeroException exd) //catch para erros específico em aritmética
+                {
+                    Console.WriteLine("Ocorreu um de divisão: " + exd.Message);
+                    Console.WriteLine("Stack: " + exd.StackTrace);
+                }
                 catch(Exception ex)
                 {
                     Console.WriteLine("Ocorreu um erro: " + ex.Message);
+                    Console.WriteLine("Stack: " + ex.StackTrace);
                 }
             }
         }

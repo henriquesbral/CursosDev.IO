@@ -8,25 +8,12 @@ namespace Application
 
         static void Main(string[] args)
         {
-            //AulaCriandoArquivos();
-            //AulaLendoArquivos();
-            AulaExcluirArquivos();
+            AulasLinq();
         }
 
-        private static void AulaCriandoArquivos()
+        private static void AulasLinq()
         {
-            var arquivo = new ModuloArquivos.Arquivos();
-            arquivo.AulaCriandoArquivo();
-        }
-        private static void AulaLendoArquivos()
-        {
-            var arquivo = new ModuloArquivos.Arquivos();
-            arquivo.AulaLendoUmArquivo();
-        }
-        private static void AulaExcluirArquivos()
-        {
-            var arquivo = new ModuloArquivos.Arquivos();
-            arquivo.AulaExcluindoArquivo();
+
         }
     }
 }

@@ -49,5 +49,20 @@ namespace ModuloArquivos
                 File.Delete("C:\\Logs\\AulaCriandoArquivos\\Cadastro.txt");
             }
         }
+        private static void AulaCriandoArquivos()
+        {
+            var arquivo = new ModuloArquivos.Arquivos();
+            arquivo.AulaCriandoArquivo();
+        }
+        private static void AulaLendoArquivos()
+        {
+            var arquivo = new ModuloArquivos.Arquivos();
+            arquivo.AulaLendoUmArquivo();
+        }
+        private static void AulaExcluirArquivos()
+        {
+            var arquivo = new ModuloArquivos.Arquivos();
+            arquivo.AulaExcluindoArquivo();
+        }
     }
 }

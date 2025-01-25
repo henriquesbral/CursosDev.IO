@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundamentosC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+077e52474bbe1c74b767a21cb07adcff742f15c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+510086a4afcc2462181df3a7b904499dc50ae25d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundamentosC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundamentosC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

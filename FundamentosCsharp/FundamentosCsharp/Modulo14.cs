@@ -48,5 +48,29 @@ namespace ModuloLinq
                 Console.WriteLine(x);
             }
         }
+        public void AulaTake() 
+        {
+            var numeros = new int[] { 1, 2, 3, 4, 5, 6 };
+            var resultado = numeros.Take(3); //pegando os tres primeiros numeros
+            var resultado2 = numeros.Take(3).OrderBy(x => x); //pegando os tres primeiros numeros e ordernando crescente
+            var resultado3 = numeros.Where(x => x > 3).Take(3).OrderBy(x => x); //filtrando numeros maior que 3, pegando os tres após esse filtro e ordenando em crescente
+        }
+        public void AulaCount()
+        {
+            var numeros = new int[] { 1, 2, 3, 4, 5, 6 };
+            var resultado = numeros.Count();
+            Console.WriteLine(resultado);
+
+            var resultado2 = numeros.Count(x => x > 2);
+        }
+        public void AulaFirsteFirstOrDefault()
+        {
+            var numeros = new int[] { 1, 2, 3, 4, 5, 6 };
+            var resultado = numeros.First();
+            Console.WriteLine(resultado);
+
+            var resultado2 = numeros.FirstOrDefault(x => x > 2);
+            Console.WriteLine(resultado2);
+        }
     }
 }

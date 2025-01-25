@@ -9,7 +9,10 @@ namespace Application
         static void Main(string[] args)
         {
             //AulasWhere();
-            AulasOrderBys();
+            //AulasOrderBys();
+            //AulaTakes();
+            //AulaCounts();
+            AulaFirts();
         }
 
         private static void AulasWhere()
@@ -21,6 +24,21 @@ namespace Application
         {
             var wherer = new ModuloLinq.TrabalhandoComLinq();
             wherer.AulaOrderBy(); 
+        }
+        private static void AulaTakes()
+        {
+            var wherer = new ModuloLinq.TrabalhandoComLinq();
+            wherer.AulaTake(); 
+        }
+        private static void AulaCounts()
+        {
+            var wherer = new ModuloLinq.TrabalhandoComLinq();
+            wherer.AulaCount(); 
+        }
+        private static void AulaFirts()
+        {
+            var wherer = new ModuloLinq.TrabalhandoComLinq();
+            wherer.AulaFirsteFirstOrDefault(); 
         }
     }
 }

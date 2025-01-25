@@ -44,5 +44,13 @@ namespace ModuloExceptions
                 }
             }
         }
+
+        private static void TrabalhandoComException()
+        {
+            var trab = new ModuloExceptions.TrabalhandoComExceptions();
+
+            //trab.AulaGerandoExceptions();
+            trab.AulatratandoExceptions();
+        }
     }
 }

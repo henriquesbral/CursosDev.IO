@@ -8,16 +8,13 @@ namespace Application
 
         static void Main(string[] args)
         {
-            TrabalhandoComException();
+            AulaArquivos();
         }
-        
-        private static void TrabalhandoComException()
+
+        private static void AulaArquivos()
         {
-            var trab = new ModuloExceptions.TrabalhandoComExceptions();
-
-            //trab.AulaGerandoExceptions();
-            trab.AulatratandoExceptions();
+            var arquivo = new ModuloArquivos.Arquivos();
+            arquivo.AulaTrabalhandoComArquivos();
         }
-
     }
 }

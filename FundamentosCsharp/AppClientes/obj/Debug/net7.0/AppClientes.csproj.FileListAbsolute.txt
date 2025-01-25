@@ -1,0 +1,15 @@
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\bin\Debug\net7.0\AppClientes.exe
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\bin\Debug\net7.0\AppClientes.deps.json
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\bin\Debug\net7.0\AppClientes.runtimeconfig.json
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\bin\Debug\net7.0\AppClientes.dll
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\bin\Debug\net7.0\AppClientes.pdb
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\obj\Debug\net7.0\AppClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\obj\Debug\net7.0\AppClientes.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\obj\Debug\net7.0\AppClientes.AssemblyInfo.cs
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\obj\Debug\net7.0\AppClientes.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\obj\Debug\net7.0\AppClientes.sourcelink.json
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\obj\Debug\net7.0\AppClientes.dll
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\obj\Debug\net7.0\refint\AppClientes.dll
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\obj\Debug\net7.0\AppClientes.pdb
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\obj\Debug\net7.0\AppClientes.genruntimeconfig.cache
+C:\Users\henri\Documents\Estudos\CursosDev.IO\FundamentosCsharp\AppClientes\obj\Debug\net7.0\ref\AppClientes.dll

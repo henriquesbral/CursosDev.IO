@@ -8,10 +8,16 @@ namespace Application
 
         static void Main(string[] args)
         {
-
+            TrabalhandoComException();
         }
         
+        private static void TrabalhandoComException()
+        {
+            var trab = new ModuloExceptions.TrabalhandoComExceptions();
 
+            //trab.AulaGerandoExceptions();
+            trab.AulatratandoExceptions();
+        }
 
     }
 }

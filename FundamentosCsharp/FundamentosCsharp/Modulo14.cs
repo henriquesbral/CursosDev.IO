@@ -35,7 +35,18 @@ namespace ModuloLinq
         }
         public void AulaOrderBy() 
         {
-            
+            var numeros = new int[] { 1, 2, 3, 4, 5, 6 };
+            var resultado = numeros.OrderBy(x => x);
+            var resultado2 = numeros.OrderByDescending(x => x);
+
+            foreach (var x in resultado)
+            {
+                Console.WriteLine(x);
+            }
+            foreach (var x in resultado2)
+            {
+                Console.WriteLine(x);
+            }
         }
     }
 }

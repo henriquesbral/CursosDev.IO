@@ -8,13 +8,19 @@ namespace Application
 
         static void Main(string[] args)
         {
-            AulasLinq();
+            //AulasWhere();
+            AulasOrderBys();
         }
 
-        private static void AulasLinq()
+        private static void AulasWhere()
         {
             var wherer = new ModuloLinq.TrabalhandoComLinq();
             wherer.AulaWhere(); 
+        }
+        private static void AulasOrderBys()
+        {
+            var wherer = new ModuloLinq.TrabalhandoComLinq();
+            wherer.AulaOrderBy(); 
         }
     }
 }

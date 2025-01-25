@@ -13,7 +13,8 @@ namespace Application
 
         private static void AulasLinq()
         {
-
+            var wherer = new ModuloLinq.TrabalhandoComLinq();
+            wherer.AulaWhere(); 
         }
     }
 }

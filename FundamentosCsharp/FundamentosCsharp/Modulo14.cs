@@ -71,6 +71,12 @@ namespace ModuloLinq
 
             var resultado2 = numeros.FirstOrDefault(x => x > 2);
             Console.WriteLine(resultado2);
+            
+            var resultado3 = numeros.FirstOrDefault(x => x > 50, 99); //devolvendo como padrão o valor 99 caso não ache um numero maior que 50
+            Console.WriteLine(resultado3);
+
+            var resultado4 = numeros.Min();
+            Console.WriteLine(resultado4);
         }
     }
 }

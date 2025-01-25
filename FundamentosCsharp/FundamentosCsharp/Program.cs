@@ -8,11 +8,7 @@ namespace Application
 
         static void Main(string[] args)
         {
-            //AulasWhere();
-            //AulasOrderBys();
-            //AulaTakes();
-            //AulaCounts();
-            AulaFirts();
+
         }
 
     }

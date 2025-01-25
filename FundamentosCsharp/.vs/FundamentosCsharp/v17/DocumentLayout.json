@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentoscsharp\\appclientes\\appclientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|solutionrelative:appclientes\\appclientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentoscsharp\\appclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|solutionrelative:appclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,32 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppClientes",
-              "DocumentMoniker": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\AppClientes\\AppClientes.csproj",
-              "RelativeDocumentMoniker": "AppClientes\\AppClientes.csproj",
-              "ToolTip": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\AppClientes\\AppClientes.csproj",
-              "RelativeToolTip": "AppClientes\\AppClientes.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-25T23:49:41.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\AppClientes\\Cliente.cs",
               "RelativeDocumentMoniker": "AppClientes\\Cliente.cs",
               "ToolTip": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\AppClientes\\Cliente.cs",
               "RelativeToolTip": "AppClientes\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T23:47:46.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\AppClientes\\Program.cs",
               "RelativeDocumentMoniker": "AppClientes\\Program.cs",

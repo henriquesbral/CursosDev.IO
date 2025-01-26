@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentoscsharp\\appclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|solutionrelative:appclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentoscsharp\\appclientes\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|solutionrelative:appclientes\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentoscsharp\\appclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|solutionrelative:appclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|c:\\users\\henri\\documents\\estudos\\cursosdev.io\\fundamentoscsharp\\appclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA373394-0D8B-485B-994C-4FA61D221C1B}|AppClientes\\AppClientes.csproj|solutionrelative:appclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,12 +43,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\AppClientes\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "AppClientes\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\AppClientes\\ClienteRepository.cs",
+              "RelativeToolTip": "AppClientes\\ClienteRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:03:51.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\AppClientes\\Cliente.cs",
               "RelativeDocumentMoniker": "AppClientes\\Cliente.cs",
               "ToolTip": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\AppClientes\\Cliente.cs",
               "RelativeToolTip": "AppClientes\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T23:47:46.236Z",
               "EditorCaption": ""
@@ -57,7 +74,7 @@
               "RelativeDocumentMoniker": "AppClientes\\Program.cs",
               "ToolTip": "C:\\Users\\henri\\Documents\\Estudos\\CursosDev.IO\\FundamentosCsharp\\AppClientes\\Program.cs",
               "RelativeToolTip": "AppClientes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAnwCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T23:47:05.207Z",
               "EditorCaption": ""

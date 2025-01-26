@@ -10,6 +10,8 @@ namespace Application
 
         static void Main(string[] args)
         {
+            _clienteRepository.LerDadosClientes();
+
             while (true)
             {
                 Menu();
@@ -70,6 +72,7 @@ namespace Application
                     }
                 case 5:
                     {
+                        _clienteRepository.GravarDadosClientes();
                         Environment.Exit(0);
                         break;
                     }

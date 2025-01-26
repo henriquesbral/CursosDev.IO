@@ -11,6 +11,25 @@ namespace AppClientes
     {
         public List<Cliente> Clientes = new List<Cliente>();
 
+        public void GravarDadosClientes()
+        {
+            var json = System.Text.Json.JsonSerializer.Serialize(Clientes);
+
+            File.WriteAllText("C:\\Logs\\AulaCriandoArquivos\\DadosClientes\\Clientes.txt", json);
+        }
+        public void LerDadosClientes()
+        {
+            if (File.Exists("C:\\Logs\\AulaCriandoArquivos\\DadosClientes\\Clientes.txt"))
+            {
+                var dados = File.ReadAllText("C:\\Logs\\AulaCriandoArquivos\\DadosClientes\\Clientes.txt");
+
+                var clientesArquivo = System.Text.Json.JsonSerializer.Deserialize<List<Cliente>>(dados);
+
+                Clientes.AddRange(clientesArquivo);
+            }
+
+        }
+
         public void ExcluirCliente()
         {
             Console.Clear();
